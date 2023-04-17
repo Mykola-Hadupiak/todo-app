@@ -1,11 +1,16 @@
-import React from 'react';
+/* eslint-disable react/react-in-jsx-scope */
 import ReactDOM from 'react-dom';
-import './index.scss';
+import { HashRouter } from 'react-router-dom';
+
+import './styles/index.css';
+import './styles/todo-list.css';
+import './styles/filters.css';
+
 import { App } from './App';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <HashRouter>
     <App />
-  </React.StrictMode>,
+  </HashRouter>,
   document.getElementById('root'),
 );
