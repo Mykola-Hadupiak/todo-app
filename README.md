@@ -1,9 +1,15 @@
-# React TypeScript Starter Pack
+# Todo app
+This application is an assistant for your daily tasks.
+You can add, delete your tasks, change their name, and sort them.
 
-To use this template click `Use this template`
+# The main technologies that were used:
+* React, hooks/custom hooks
+* React Router, classNames
+* CSS
+* localStorage
 
-### Available Scripts
+# About the project
 
-`Deploy` - available to deploy your application to gh-pages
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Demo:
+[DEMO LINK](https://mykola-hadupiak.github.io/todo-app/)
