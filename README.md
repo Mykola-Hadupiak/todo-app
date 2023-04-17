@@ -15,27 +15,40 @@ You can add, delete your tasks, change their name, and sort them.
 
 * At the beginning, you are greeted by a beautiful design without unnecessary elements.
 
-![image](https://user-images.githubusercontent.com/114435233/232482235-23a16e33-77f4-44ae-9c73-bc4b64e27259.png)
+<img width="801" alt="1" src="https://user-images.githubusercontent.com/114435233/232544416-5a363b7b-98a5-482c-a948-60d6d196306c.png">
 
-* In order to add a task, you just need to start typing and press "Enter".
+* In order to add a todo, you just need to start typing and press **"Enter"**.
 
-![image](https://user-images.githubusercontent.com/114435233/232483051-6c648be0-51fd-4c26-9cf3-4e84b7cad7f2.png)
+<img width="801" alt="2" src="https://user-images.githubusercontent.com/114435233/232544552-2666f506-35de-4960-af7f-4e469c467419.png">
 
-* After pressing the "Enter" button, your first todo will be added, and you will also have a beautiful design with great functionality.
+* After pressing the **"Enter"** button, your first todo will be added, and you will also have a beautiful design with great functionality.
 
-![image](https://user-images.githubusercontent.com/114435233/232483339-2d63d2d7-0466-4ca3-88d0-c3241d0e0b4d.png)
+<img width="801" alt="3" src="https://user-images.githubusercontent.com/114435233/232544634-1e5e924d-6594-4eb1-b2a9-49e80f9c3a6c.png">
 
-* You can easily change the status of your todo to "completed" or "active" by clicking one button.
+* You can easily change the status of your todo to **"Completed"** or **"Active"** by clicking one button.
 
-* Also, you can mark everything as "Completed" or "Active" by clicking the appropriate button.
+<img width="829" alt="4" src="https://user-images.githubusercontent.com/114435233/232545051-196d5426-f712-42e8-afc9-ed202ff3121d.png">
 
-* You can easily delete your todos by clicking on the delete button next to the todo or by clicking "Clear completed" to delete all completed todos.
+* Also, you can mark everything as **"Completed"** or **"Active"** by clicking the appropriate button.
 
-* You can easily switch between "Active", "Completed" or "All" todos.
+<img width="829" alt="5" src="https://user-images.githubusercontent.com/114435233/232545077-15fa6dec-ba85-4cc2-9729-3837f2b7e6c7.png">
 
-* If you make a mistake in writing a todo, you can double-click on it with the left mouse button and change it (for changes to be applied, you need to press "Enter" or click on an empty area of the page).
+* You can easily delete your todos by clicking on the **delete** button (X) next to the todo or by clicking **"Clear completed"** to delete all completed todos.
 
-* To cancel the change, use the "Escape" button. Also, if you have an empty field when changing the task, the task will be deleted.
+<img width="829" alt="6" src="https://user-images.githubusercontent.com/114435233/232545388-90a3ff52-60e8-4319-8a77-2abe697ea011.png">
+<img width="829" alt="6 1" src="https://user-images.githubusercontent.com/114435233/232545405-04407d8f-7a65-40f5-9390-215b725946c4.png">
+
+* You can easily switch between **"Active"**, **"Completed"** or **"All"** todos.
+
+<img width="829" alt="7" src="https://user-images.githubusercontent.com/114435233/232545482-e2429549-b31b-48db-8e98-eccaeeb127fe.png">
+
+* If you make a mistake in writing a todo, you can double-click on it with the left mouse button and change it (for changes to be applied, you need to press **"Enter"** or click on an empty area of the page).
+
+<img width="829" alt="8" src="https://user-images.githubusercontent.com/114435233/232545500-7ee5b495-658c-4e9b-9cde-d445a1a236dd.png">
+
+* Also, if you have an empty field when changing the todo, it will be **deleted**. Use the **"Escape"** button to cancel changes.
+
+<img width="829" alt="9" src="https://user-images.githubusercontent.com/114435233/232545530-3a63aad2-d59a-4015-8a63-7ed201181695.png">
 
 
 # Demo:
