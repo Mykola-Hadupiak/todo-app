@@ -1,4 +1,4 @@
-# Todo app
+# [Todo app](https://mykola-hadupiak.github.io/todo-app/)
 This application is an assistant for your daily tasks.
 
 You can add, delete your tasks, change their name, and sort them.
