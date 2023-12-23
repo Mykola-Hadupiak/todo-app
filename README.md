@@ -50,6 +50,5 @@ You can add, delete your tasks, change their name, and sort them.
 
 <img width="829" alt="9" src="https://user-images.githubusercontent.com/114435233/232545530-3a63aad2-d59a-4015-8a63-7ed201181695.png">
 
-
 # Demo:
 [DEMO LINK](https://mykola-hadupiak.github.io/todo-app/)
